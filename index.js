@@ -1,4 +1,3 @@
-/*!For license information please see audima-widget.js.LICENSE.txt*/
 (() => {
     var __webpack_modules__ = {
             1490: e => {
